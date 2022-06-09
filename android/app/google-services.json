@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "958103546872",
+    "project_id": "crazytodo-c52e8",
+    "storage_bucket": "crazytodo-c52e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958103546872:android:29ef916a224cdb6814040d",
+        "android_client_info": {
+          "package_name": "com.example.crazy_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958103546872-b6pherod90ej3ctnnm2jvhbvo2l06o7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crazy_todo",
+            "certificate_hash": "af84e121db7af50380cc4cff5c5739227033adf5"
+          }
+        },
+        {
+          "client_id": "958103546872-dbehhhejblrhu3cm9ls96so8nc015ttk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAgI4mKaZS0JTK7bp41SvzCbSErh82A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958103546872-dbehhhejblrhu3cm9ls96so8nc015ttk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958103546872-naa6ki4bvmotpb0akrfkht1a615agaf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crazyTodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
